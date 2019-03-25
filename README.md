@@ -23,3 +23,5 @@ We run this question package periodically. The CSV files above contain the respo
 05.csv: 1055 respondents, 02/24/19 - 02/26/19, +/- 3.14%, 385 reg. Dems
 
 06.csv: 1102 respondents, 03/01/19 - 03/02/19, +/- 3.10%, 397 reg. Dems
+
+07.csv: 1086 respondents, 03/22/19 - 03/23/19, +/- 3.13%, 428 reg. Dems
