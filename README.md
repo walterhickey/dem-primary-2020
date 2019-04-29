@@ -12,6 +12,9 @@ Basically, we ask lots of Americans a few basic things on SurveyMonkey Audience.
 
 We run this question package periodically. The CSV files above contain the responses to those pieces. Here's additional descriptive statistics for each package. Candidates were dropped off as they exited the race.
 
+<code>
+  
+
 01.csv: 1109 respondents, 12/21/18 - 12/22/18, +/- 3.12%, 378 reg. Dems
 
 02.csv: 1233 respondents, 01/26/19 - 01/27/19, +/- 2.95%, 421 reg. Dems
@@ -31,3 +34,6 @@ We run this question package periodically. The CSV files above contain the respo
 09.csv: 1110 respondents, 04/18/19 - 04/18/19, +/- 3.15%  462 reg. Dems
 
 10.csv: 1144 respondents, 04/26/19 - 04/27/19, +/- 3.07%, 433 reg. Dems
+
+
+</code>
