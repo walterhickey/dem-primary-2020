@@ -29,12 +29,13 @@ We run this question package periodically. The CSV files above contain the respo
 
 07.csv: 1086 respondents, 03/22/19 - 03/23/19, +/- 3.13%, 428 reg. Dems
 
-08.csv: 1103 respondents, 04/05/19 - 04/06/19, +/- 3.10%,  374 reg. Dems
+08.csv: 1103 respondents, 04/05/19 - 04/06/19, +/- 3.10%, 374 reg. Dems
 
-09.csv: 1110 respondents, 04/18/19 - 04/18/19, +/- 3.15%,  462 reg. Dems
+09.csv: 1110 respondents, 04/18/19 - 04/18/19, +/- 3.15%, 462 reg. Dems
 
 10.csv: 1144 respondents, 04/26/19 - 04/27/19, +/- 3.07%, 433 reg. Dems
 
 11.csv: 1127 respondents, 05/10/19 - 05/11/19, +/- 3.12%, 432 reg. Dems
 
+12.csv: 1168 respondents, 05/17/19 - 05/18/19, +/- 3.08%, 485 reg. Dems
 </code>
