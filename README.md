@@ -69,4 +69,6 @@ We run this question package periodically. The CSV files above contain the respo
 
 27.csv: 1095 respondents, 10/16/19 - 10/17/19, +/- 3.04%, 448 reg. Dems
 
+28.csv: 1075 respondents, 10/25/19 - 10/26/19, +/- 3.09%, 455 reg. Dems
+
 </code>
