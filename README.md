@@ -93,4 +93,6 @@ We run this question package periodically. The CSV files above contain the respo
 
 39.csv: 1125 respondents, 02/18/20 - 02/18/20, +/- 3%, 443 reg. Dems
 
+40.csv: 1051 respondents, 02/27/20 - 02/27/20, +/- 3%, 409 reg. Dems
+
 </code>
